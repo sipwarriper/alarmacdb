@@ -1,0 +1,11 @@
+{
+  "name": "alarmacdb",
+  "version": "1.0.0",
+  "description": "Alarma para el entrenamiento CD Badajoz eSports PC ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sipwarriper",
+  "license": "ISC"
+}
